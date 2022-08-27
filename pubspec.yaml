@@ -1,11 +1,21 @@
 name: fancy_tab
-description: A new Flutter project.
+description: It is a plugin for an fancy tab bar design.
 version: 0.0.1
-homepage:
+homepage: https://github.com/AbdulAhad1192/fancy_tab
+documentation: https://github.com/AbdulAhad1192/fancy_tab
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
   flutter: ">=2.5.0"
+
+# This package supports all platforms listed below.
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 
 dependencies:
   flutter:
