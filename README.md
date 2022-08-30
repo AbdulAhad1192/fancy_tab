@@ -18,12 +18,10 @@ dependencies:
 import 'package:fancy_tab/fancy_tab.dart';
 ```
 
-
 |  | Android | IOS | Web  | Windows | MacOs | Linux |
 | --- | --- | --- | --- | --- | --- | --- |
 | Supported | ✅️️ |  ✅️ |  ✅️ |  ✅️ |  ✅️ |  ✅️
 
-# 📙 How To Use
 
 ## Available Parameters
 ```dart
