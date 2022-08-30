@@ -4,7 +4,7 @@
 
 It is fancy and beautiful tab bar design.It is highly customisable and easy to use with PageView.builder.
 
-<img src="https://user-images.githubusercontent.com/92029288/187216317-c00f4b9b-5914-4205-b7b5-bd9d7b4167a9.mp4" alt="alt text" width="300" height="620">
+<img src="https://user-images.githubusercontent.com/92029288/187374708-a6c5fd5f-406d-434b-98f6-bd815fd49ea4.gif" alt="alt text" width="300" height="620">
 
 
 ## 🌟 Installing
