@@ -1,6 +1,6 @@
 name: fancy_tab
-description: It is a plugin for an fancy tab bar design.
-version: 0.0.1
+description: It is fancy and beautiful tab bar design.It is highly customisable and easy to use with PageView.builder.
+version: 0.0.4
 homepage: https://github.com/AbdulAhad1192/fancy_tab
 documentation: https://github.com/AbdulAhad1192/fancy_tab
 
@@ -20,9 +20,6 @@ platforms:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_web_plugins:
-    sdk: flutter
-  plugin_platform_interface: ^2.0.2
 
 dev_dependencies:
   flutter_test:
